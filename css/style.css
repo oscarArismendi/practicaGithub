@@ -22,3 +22,12 @@
     left: 50%;
     transform: translate(-50%,-50%);
   }
+
+  .circle120{
+    height: 120px;
+    width: 120px;
+    background: #fff;
+    border-radius: 100px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgb(114, 114, 114);  
+  }
